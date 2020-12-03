@@ -1,0 +1,3 @@
+include ':popupSnackbar'
+include ':app'
+rootProject.name = "Popup Snackbar"
