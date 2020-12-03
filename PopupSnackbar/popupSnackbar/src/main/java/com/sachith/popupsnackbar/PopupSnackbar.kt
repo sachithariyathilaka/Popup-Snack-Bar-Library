@@ -11,20 +11,11 @@ import com.google.android.material.snackbar.Snackbar
 class PopupSnackbar {
 
     fun snackBar(context: Context, view: View, message: String, type: Int){
-        var color = 0
         val snackBar = Snackbar.make(view, message, Snackbar.LENGTH_SHORT)
-        if(type == 0){
-           color == R.color.colorSuccess
-        } else if(type == 1){
-            color = R.color.colorWaiting
-        } else {
-            color = R.color.colorError
-        }
-        snackBar.setBackgroundTint(ContextCompat.getColor(context, color))
         val snackBarView: View = snackBar.view
-        if(color == R.color.colorError){
+        if(type == 2){
             snackBarView.setBackgroundResource(R.drawable.error_button)
-        }else if(color == R.color.colorSuccess){
+        }else if(type == 0){
             snackBarView.setBackgroundResource(R.drawable.success_button)
         } else{
             snackBarView.setBackgroundResource(R.drawable.waiting_button)
