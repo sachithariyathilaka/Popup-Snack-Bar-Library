@@ -15,7 +15,7 @@ allprojects {
 }
 ```
   
-Add Auth Preference on your app level gradle file
+Add Popup Snackbar on your app level gradle file
 
 ```implementation 'com.github.sachithariyathilaka:PopupSnackbar:1.1'```
 
