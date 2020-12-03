@@ -29,5 +29,8 @@ Type 1 : Waiting Popup
 
 Type 2 : Error Popup
 
+# Sample Project
+
+https://github.com/sachithariyathilaka/PopupSnackbarSample
 
 
