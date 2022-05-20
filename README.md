@@ -24,7 +24,7 @@ Add Popup Snackbar on your app level gradle file
 
 # Use Popup Snackbar
 
-You can use 3 custom popup by it's type.
+You can use 3 custom popup by it's type
 
 Type 0 : Success Popup
 
