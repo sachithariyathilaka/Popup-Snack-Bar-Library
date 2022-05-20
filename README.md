@@ -2,6 +2,9 @@
 
 This is an extension of snackbar with custom layout &amp; 3 different colors with custom message &amp; gravity 
 
+# Technologies
+Java, Android Studio
+
 # Setup Auth Preference
 
 Add Jitpack on your project level gradle file
