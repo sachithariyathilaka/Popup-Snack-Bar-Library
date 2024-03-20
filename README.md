@@ -12,7 +12,7 @@ This is an extension of snackbar with custom layout &amp; 3 different colors wit
 * ### Release Note
   * Release: 1.0.0
   * Date: 2022/05/20
-  * Module: Popup Snack Bar
+  * Module: Popup Snack Bar Library
   * Changes
     * Develop Type 01 snack bar.
     * Develop Type 02 snack bar.
