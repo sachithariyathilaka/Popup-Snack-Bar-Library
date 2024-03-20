@@ -6,8 +6,8 @@ This is an extension of snackbar with custom layout &amp; 3 different colors wit
   * https://sachithariyathilaka.medium.com/custom-popup-snack-bar-eb832f799a3b
 
 * ### Technologies
-  * Kotlin
-  * Android
+  * Android Development
+  * Java
   
 * ### Release Note
   * Release: 1.0.0
