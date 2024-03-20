@@ -8,6 +8,7 @@ This is an extension of snackbar with custom layout &amp; 3 different colors wit
 * ### Technologies
   * Android Development
   * Java
+  * Gradle
   
 * ### Release Note
   * Release: 1.0.0
