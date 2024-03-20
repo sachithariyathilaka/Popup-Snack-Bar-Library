@@ -1,39 +1,21 @@
 # Popup Snackbar Library
 
-This is an extension of snackbar with custom layout &amp; 3 different colors with custom message &amp; gravity 
+This is an extension of snackbar with custom layout &amp; 3 different colors with custom message &amp; gravity. 
 
-# Technologies
-Kotlin, Android Studio
+* ### Configuration
+  * https://sachithariyathilaka.medium.com/custom-popup-snack-bar-eb832f799a3b
 
-# Setup Auth Preference
-
-Add Jitpack on your project level gradle file
-
-```
-allprojects {
-	repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
-}
-```
+* ### Technologies
+  * Kotlin
+  * Android
   
-Add Popup Snackbar on your app level gradle file
-
-```implementation 'com.github.sachithariyathilaka:PopupSnackbar:1.1'```
-
-# Use Popup Snackbar
-
-You can use 3 custom popup by it's type
-
-Type 0 : Success Popup
-
-Type 1 : Waiting Popup
-
-Type 2 : Error Popup
-
-# Sample Project
-
-https://github.com/sachithariyathilaka/PopupSnackbarSample
+* ### Release Note
+  * Release: 1.0.0
+  * Date: 2022/05/20
+  * Module: Popup Snack Bar
+  * Changes
+    * Develop Type 01 snack bar.
+    * Develop Type 02 snack bar.
+    * Develop Type 03 snack bar.
 
 
